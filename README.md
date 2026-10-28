@@ -11,7 +11,7 @@
 
 🤖 <b>Linguagens e Tecnologias</b>
   <div>
-    <a href="#"><img alt="Icones Skills" height="35" src="https://skillicons.dev/icons?i=html,css,js,wordpress,git,github"></a>
+    <a href="#"><img alt="Icones Skills" height="35" src="https://skillicons.dev/icons?i=html,css,js,wordpress,git,github,php,laravel,react"></a>
   </div>
 
   ##
